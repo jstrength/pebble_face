@@ -1,0 +1,30 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "76022342-9f52-4185-88c8-ec3934cb247e",
+    "appKeys": {},
+    "longName": "jessie_watchface",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Jessie",
+    "companyName": "l34ch",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "menu",
+                "file": "images/thegf_menu.png"
+            },
+            {
+                "type": "png",
+                "name": "gf",
+                "file": "images/thegf.png"
+            }
+        ]
+    }
+}
